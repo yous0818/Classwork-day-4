@@ -22,7 +22,7 @@
   border: 20px;
   border-style: solid;
   width: 80%;
-  height: 40%;
+  height: auto;
   justify-content: space-between;
   flex-direction: row-reverse;
 
@@ -35,10 +35,9 @@
    border: 20px;
    border-style: dotted;
    width: 80%;
-   height: 40%;
-   text-align: end;
-   align-content: flex-end;
-   align-items: flex-end;
+   height: 600px;
+   align-content: flex-start;
+   align-items: center;
 
 }
 
